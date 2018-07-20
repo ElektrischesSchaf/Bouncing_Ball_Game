@@ -1,0 +1,17 @@
+C:\Users\manof\Desktop\E14031083_伍錫志_HW2\E14031083\obj\Debug\E14031083.Form1.resources
+C:\Users\manof\Desktop\E14031083_伍錫志_HW2\E14031083\obj\Debug\E14031083.csproj.GenerateResource.Cache
+C:\Users\manof\Desktop\E14031083_伍錫志_HW2\E14031083\bin\Debug\E14031083.exe.config
+C:\Users\manof\Desktop\E14031083_伍錫志_HW2\E14031083\bin\Debug\E14031083.exe
+C:\Users\manof\Desktop\E14031083_伍錫志_HW2\E14031083\bin\Debug\E14031083.pdb
+C:\Users\manof\Desktop\E14031083_伍錫志_HW2\E14031083\obj\Debug\E14031083.Properties.Resources.resources
+C:\Users\manof\Desktop\E14031083_伍錫志_HW2\E14031083\obj\Debug\E14031083.exe
+C:\Users\manof\Desktop\E14031083_伍錫志_HW2\E14031083\obj\Debug\E14031083.pdb
+D:\Dropbox\E14031083_伍錫志_HW2_乒乓球\E14031083\bin\Debug\E14031083.exe.config
+D:\Dropbox\E14031083_伍錫志_HW2_乒乓球\E14031083\bin\Debug\E14031083.exe
+D:\Dropbox\E14031083_伍錫志_HW2_乒乓球\E14031083\bin\Debug\E14031083.pdb
+D:\Dropbox\E14031083_伍錫志_HW2_乒乓球\E14031083\obj\Debug\E14031083.csprojResolveAssemblyReference.cache
+D:\Dropbox\E14031083_伍錫志_HW2_乒乓球\E14031083\obj\Debug\E14031083.Form1.resources
+D:\Dropbox\E14031083_伍錫志_HW2_乒乓球\E14031083\obj\Debug\E14031083.Properties.Resources.resources
+D:\Dropbox\E14031083_伍錫志_HW2_乒乓球\E14031083\obj\Debug\E14031083.csproj.GenerateResource.Cache
+D:\Dropbox\E14031083_伍錫志_HW2_乒乓球\E14031083\obj\Debug\E14031083.exe
+D:\Dropbox\E14031083_伍錫志_HW2_乒乓球\E14031083\obj\Debug\E14031083.pdb
